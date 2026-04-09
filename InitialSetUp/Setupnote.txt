@@ -5,3 +5,8 @@ git commit -m "Added NewFolderName folder"
 git remote add origin git@github.com:subrahks1-sys/GenAI_Practice.git
 git branch -M main
 git push -u origin main
+
+#####also worked
+git add .
+git commmit -m "uppdated"
+git push
